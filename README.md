@@ -1,5 +1,5 @@
-![Blue and Purple Cyberpunk Linkedin Banner](https://user-images.githubusercontent.com/56785178/226090247-be6909ee-c102-4931-9c81-f3d8fbc72d38.png)
 
+![Blue and Purple Cyberpunk Linkedin Banner (1)](https://user-images.githubusercontent.com/56785178/226152502-16d25787-d21c-4b09-9f66-8a140943a511.png)
 <h1 align="center">Hi 👋, I'm Abdul Rehman Zahid</h1>
 <h3 align="center">A passionate data Analyst || Like to work Data cleaning / Data visualization / Predictive modeling</h3>
 
