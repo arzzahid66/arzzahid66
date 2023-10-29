@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Exploratory Analysis**
 
-- 👨‍💻 All of my projects are available at [https://arzzahid66.github.io/arcodes/](https://arzzahid66.github.io/arcodes/)
+- 👨‍💻 All of my projects are available at [[https://arzzahid66.github.io/arcodes/](https://arzzahid66.github.io/arcodes/](https://arzzahid66.github.io/portfolio/))
 
 - 📫 How to reach me **arailearn66@gmail.com**
 
